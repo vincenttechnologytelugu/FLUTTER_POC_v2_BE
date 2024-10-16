@@ -1,0 +1,40 @@
+{
+  "version": "1.0.1",
+  "users": [
+    {
+      "email": "bollipogu@gmail.com",
+      "password": "123456",
+      "username": "suneel",
+      "_id": "AZf6d8d8bcTGCMIhVAiim_gxrjGZ"
+    },
+    {
+      "name": "suneel",
+      "email": "suneel@gmail.com",
+      "password": "123456",
+      "_id": "1NdqqAGEUEircJcWzBV-ycLda8Gf"
+    },
+    {
+      "userName": "ramesh",
+      "email": "ramesh@gmail.com",
+      "password": "123567",
+      "_id": "QEQZGHm9B99hPX_ZXRcpaW5MUyVj"
+    },
+    {
+      "userName": "koti",
+      "email": "koti@gmail.com",
+      "password": "987654",
+      "_id": "isfUOY8kpV8pQkKuOEkQrl89Tu2p"
+    },
+    {
+      "username": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "456789",
+      "_id": "T9vCQ854rxs7I92gtwd5VBt9dy5q"
+    }
+  ],
+  "adposts": [],
+  "public": {
+    "cities_list": [],
+    "categories_list": []
+  }
+}
